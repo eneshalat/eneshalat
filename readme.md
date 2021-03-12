@@ -1,5 +1,6 @@
-``fn main(){ println!("Welcome! Glad to have you here");
-}``
+    fn main(){ 
+	    println!("Welcome! Glad to have you here");
+    }
 
 ### wiretakes
 Currently high school graduate, interested in programming and open source, tinkering with Linux around 5 years, ∞ code love!
