@@ -2,10 +2,10 @@
 	    println!("Welcome! Glad to have you here");
     }
 
-### wiretakes
+### Enes Halat
 Currently high school graduate, interested in programming and open source, tinkering with Linux around 5 years, ∞ code love!
 ## Welcome aboard!
-Hi! I am wiretakes and I'm here to learn coding better and also share my software ideas. I've been into programming for 7 years, and I love tinkering around with them since I was born. :D
+Hi! I am Enes Halat and I'm here to learn coding better and also share my software ideas. I've been into programming for 7 years, and I love tinkering around with them since I was born. :D
 
 ### What will you find here?
 > You will find my latest repositories and ideas. They will be shared here as soon as I start to create them.
@@ -28,4 +28,4 @@ You can contact me on matrix.org! I am pretty active in there because that's my 
 ### That's the end!
 Thank you for looking to my profile page! If any of my software ideas inspire you or you think you can make that idea stronger, always feel free to contribute! 
 
-*2021 - wiretakes*
+*2021 - Enes Halat*
