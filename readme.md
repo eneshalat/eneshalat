@@ -28,4 +28,4 @@ You can contact me on matrix.org! I am pretty active in there because that's my 
 ### That's the end!
 Thank you for looking to my profile page! If any of my software ideas inspire you or you think you can make that idea stronger, always feel free to contribute! 
 
-*2021 - Enes Halat*
+*2022 - Enes Halat*
